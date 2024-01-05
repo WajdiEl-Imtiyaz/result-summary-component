@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/WajdiEl-Imtiyaz/React-result-summary-component/static/css/main.44596f80.css",
+    "main.js": "/WajdiEl-Imtiyaz/React-result-summary-component/static/js/main.88ed4902.js",
+    "static/js/787.feee080c.chunk.js": "/WajdiEl-Imtiyaz/React-result-summary-component/static/js/787.feee080c.chunk.js",
+    "index.html": "/WajdiEl-Imtiyaz/React-result-summary-component/index.html",
+    "static/media/icon-memory.svg": "/WajdiEl-Imtiyaz/React-result-summary-component/static/media/icon-memory.22a9e0501e58960f3c349cd96fcf108f.svg",
+    "static/media/icon-visual.svg": "/WajdiEl-Imtiyaz/React-result-summary-component/static/media/icon-visual.61fc2697d5094b6e396276b1a1597c86.svg",
+    "static/media/icon-verbal.svg": "/WajdiEl-Imtiyaz/React-result-summary-component/static/media/icon-verbal.cc1204a0b0559da591a3ea6e99c5cf50.svg",
+    "static/media/icon-reaction.svg": "/WajdiEl-Imtiyaz/React-result-summary-component/static/media/icon-reaction.0c1d6b98b4559ba72276d9ceda14692d.svg",
+    "main.44596f80.css.map": "/WajdiEl-Imtiyaz/React-result-summary-component/static/css/main.44596f80.css.map",
+    "main.88ed4902.js.map": "/WajdiEl-Imtiyaz/React-result-summary-component/static/js/main.88ed4902.js.map",
+    "787.feee080c.chunk.js.map": "/WajdiEl-Imtiyaz/React-result-summary-component/static/js/787.feee080c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44596f80.css",
+    "static/js/main.88ed4902.js"
+  ]
+}
